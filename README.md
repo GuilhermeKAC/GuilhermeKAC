@@ -15,9 +15,9 @@ Atualmente explorando ☕ Java + Spring Boot
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor full-stack com mais de **4 anos de experiência**, especializado em sistemas de gestão de armazém **(WMS/YMS)**. Atuei em três domínios distintos: gestão financeira, rastreamento veicular e WMS — sempre com foco em arquitetura limpa, performance e entregas escaláveis.
+Desenvolvedor full-stack com **5 anos de experiência**, especializado em sistemas de gestão de armazém **(WMS/YMS)**. Atuei em três domínios distintos: gestão financeira, rastreamento veicular e WMS — sempre com foco em arquitetura limpa, performance e entregas escaláveis.
 
-Atualmente na **Boostech (ex-Yardex)** construindo o **YardSGA**, um sistema WMS do zero para a TEGMA Logística — da definição de arquitetura à produção.
+Atualmente na **Yardex** construindo o **YardSGA**.
 
 - 🔭 Trabalhando em: **YardSGA** — WMS com arquitetura monolito modular (Laravel + PostgreSQL)
 - 🌱 Estudando: **Java + Spring Boot** e aprofundando em arquitetura de software
