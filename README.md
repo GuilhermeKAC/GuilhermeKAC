@@ -20,7 +20,6 @@ Desenvolvedor full-stack com **5 anos de experiência**, especializado em sistem
 Atualmente na **Yardex** construindo o **YardSGA**.
 
 - 🔭 Trabalhando em: **YardSGA** — WMS com arquitetura monolito modular (Laravel + PostgreSQL)
-- 🌱 Estudando: **Java + Spring Boot** e aprofundando em arquitetura de software
 - 🏙️ Mora em: **São José dos Campos, SP**
 - 🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** — UNIP
 
