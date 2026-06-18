@@ -15,7 +15,7 @@ Atualmente explorando ☕ Java + Spring Boot
 
 ## 👨‍💻 Sobre mim
 
-Desenvolvedor full-stack com **5 anos de experiência**, especializado em sistemas de gestão de armazém **(WMS/YMS)**. Atuei em três domínios distintos: gestão financeira, rastreamento veicular e WMS — sempre com foco em arquitetura limpa, performance e entregas escaláveis.
+Desenvolvedor full-stack com **5 anos de experiência**, especializado em sistemas de gestão de armazém **(WMS/YMS)**. Atuei em três domínios distintos: gestão financeira, rastreamento veicular e WMS, sempre com foco em arquitetura limpa, performance e entregas escaláveis.
 
 Atualmente na **Yardex** construindo o **YardSGA**.
 
